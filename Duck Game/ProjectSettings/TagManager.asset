@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Grass Tile
+  - Barrier Tile
+  - RailRoad 1
+  - RailRoad 2
+  - Spawn Point 1
+  - Spawn Point 2
+  - Control Point
   layers:
   - Default
   - TransparentFX
